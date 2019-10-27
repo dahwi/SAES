@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=seq\ s\ r
+comment1.target=void\ keyGenerate(int[],\ int,\ int)
+comment2.params=a
+comment2.target=int[]\ P(int[])
+numComments=3
